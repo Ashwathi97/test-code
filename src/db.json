@@ -1,0 +1,36 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Ashwathi",
+      "position": "CEO",
+      "department": "Executive",
+      "email": "ashwathi@example.com",
+      "directReports": [
+        {
+          "id": 2,
+          "name": "Bob",
+          "position": "CTO",
+          "department": "Technology",
+          "email": "bob@example.com",
+          "directReports": [
+            {
+              "id": 3,
+              "name": "Smurf",
+              "position": "Manager",
+              "department": "Development",
+              "email": "smurf@example.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7211",
+      "name": "abc",
+      "position": "test",
+      "department": "dev",
+      "directReports": []
+    }
+  ]
+}

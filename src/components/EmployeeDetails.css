@@ -1,0 +1,15 @@
+.employee-card {
+  text-align: center;
+  font-size: 14px;
+}
+
+.employee-card h4 {
+  margin: 0;
+  font-size: 16px;
+  color: #333;
+}
+
+.employee-card p {
+  margin: 5px 0;
+  color: #666;
+}

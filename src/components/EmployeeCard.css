@@ -1,0 +1,25 @@
+.employee-card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.employee-card h3 {
+  margin: 0;
+}
+
+.employee-card .actions {
+  margin-top: 10px;
+}
+
+.employee-card .actions button {
+  margin-right: 5px;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border-radius: 3px;
+}
